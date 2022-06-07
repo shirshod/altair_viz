@@ -10,7 +10,7 @@ Some visualizations may not be compatible with viewing directly on Github. View 
 
 ## Contents
 
-### 1. [An Overview]
+### 1. [An Overview](https://github.com/shirshod/altair_viz/blob/main/01_overview.ipynb)
 #### 1.1 What is Altair? [line 1]
 #### 1.2 Plotting charts [6]
 ##### 1.2.1 1-D and 2-D charts [6]
@@ -35,7 +35,7 @@ Some visualizations may not be compatible with viewing directly on Github. View 
 #### 1.8 Plotting multiple charts [28]
 <br>
 
-### 2. [Simple Charts — Core Concepts]
+### 2. [Simple Charts — Core Concepts](https://github.com/shirshod/altair_viz/blob/main/02_simplecharts.ipynb)
 #### 2.1 Overview [line 1]
 #### 2.2 The chart object [4]
 #### 2.3 Plotting [5]
@@ -45,7 +45,7 @@ Some visualizations may not be compatible with viewing directly on Github. View 
 #### 2.4 Types of encodings [15]
 <br>
 
-### 3. [Binning and Aggregation]
+### 3. [Binning and Aggregation](https://github.com/shirshod/altair_viz/blob/main/03_binningaggregation.ipynb)
 #### 3.1 Plotting charts [line 4]
 ##### 3.1.1 Group-by [4]
 ##### 3.1.2 1-D binnings: Histograms [6]
@@ -53,7 +53,7 @@ Some visualizations may not be compatible with viewing directly on Github. View 
 ##### 3.1.4 Time binnings [13]
 <br>
 
-### 4. [Compound Charts]
+### 4. [Compound Charts](https://github.com/shirshod/altair_viz/blob/main/04_compoundcharts.ipynb)
 #### 4.1 Overview [line 1]
 #### 4.2 Plotting [3]
 ##### 4.2.1 Layering [3]
@@ -62,7 +62,7 @@ Some visualizations may not be compatible with viewing directly on Github. View 
 ##### 4.2.4 Repeats charts [12]
 <br>
 
-### 5. [Interactivity]
+### 5. [Interactivity](https://github.com/shirshod/altair_viz/blob/main/05_interactivity.ipynb)
 #### 5.1 Overview [line 1]
 #### 5.2 Basic Interactions [4]
 #### 5.3 Sophisticated Interactions: Selections [5]
@@ -74,13 +74,13 @@ Some visualizations may not be compatible with viewing directly on Github. View 
 ##### 5.3.6 Filtering selection [17]
 <br>
 
-### 6. [Data Transformations]
+### 6. [Data Transformations](https://github.com/shirshod/altair_viz/blob/main/06_datatransformations.ipynb)
 #### 6.1 Overview [line 1]
 #### 6.2 Calculating a transformation [4]
 #### 6.3 Filtering transformations [6]
 <br>
 
-### 7. [Configuring Charts]
+### 7. [Configuring Charts](https://github.com/shirshod/altair_viz/blob/main/07_chartconfigurations.ipynb)
 #### 7.1 Overview [line 1]
 #### 7.2 Controlling marker properties [4]
 ##### 7.2.1 Top-level configuration [5]
@@ -94,7 +94,7 @@ Some visualizations may not be compatible with viewing directly on Github. View 
 #### 7.6 Controlling color scales [18]
 <br>
 
-### 8. [Geographic Plots]
+### 8. [Geographic Plots](https://github.com/shirshod/altair_viz/blob/main/08_geographicplots.ipynb)
 #### 8.1 Scatter-plots in geographic coordinates [line 3]
 #### 8.2 Chloropleth maps [5]
 ##### 8.2.1 U.S. States [5]
